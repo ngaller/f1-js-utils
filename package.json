@@ -1,10 +1,14 @@
 {
   "name": "f1-js-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "Misc small Javascript utilities, for node and the browser",
   "main": "index.js",
   "directories": {
     "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicocrm/f1-js-utils.git"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
